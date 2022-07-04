@@ -1,0 +1,2 @@
+# bspwm
+My laptop config
